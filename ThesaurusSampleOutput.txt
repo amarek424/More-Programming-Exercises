@@ -1,0 +1,14 @@
+Enter a word or enter '1' to end: test
+Enter synonyms for test (separated by commas) or just enter '0' to skip: analysis, assessment, trial
+Enter a word or enter '1' to end: fun
+Enter synonyms for fun (separated by commas) or just enter '0' to skip: amusing, enjoyable, lively, entertaining
+Enter a word or enter '1' to end: blank
+Enter synonyms for blank (separated by commas) or just enter '0' to skip: 0
+Enter a word or enter '1' to end: test
+Enter synonyms for test (separated by commas) or just enter '0' to skip: inspection, investigation
+Enter a word or enter '1' to end: 1
+Word is 'blank'. There are no synonyms.
+Word is 'test'. Synonyms are: 
+[analysis, assessment, trial, inspection, investigation]
+Word is 'fun'. Synonyms are: 
+[amusing, enjoyable, lively, entertaining]
